@@ -1,0 +1,10 @@
+password
+admin
+123456
+letmein
+qwerty
+monkey
+randompassword
+123456789
+football
+1234
